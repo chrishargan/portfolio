@@ -8,7 +8,6 @@ align-items: center;
 justify-content: space-between;
 padding: 5rem 10rem;
 color: white;
-zoom: 90%;
 `;
 export const StyledDescription = styled.div`
 flex: 1;
